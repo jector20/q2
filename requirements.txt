@@ -1,0 +1,4 @@
+pyqt6-qt6==6.6.2 ; python_version >= "3.11" and python_version < "4.0"
+pyqt6-sip==13.6.0 ; python_version >= "3.11" and python_version < "4.0"
+pyqt6==6.6.1 ; python_version >= "3.11" and python_version < "4.0"
+pyserial==3.5 ; python_version >= "3.11" and python_version < "4.0"
